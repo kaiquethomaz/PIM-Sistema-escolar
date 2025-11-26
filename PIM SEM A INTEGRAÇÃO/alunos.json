@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "nome": "Pedro Henrique",
+        "matricula": "A2024001",
+        "senha": "5994471abb01112afcc18159f6cc74b4f511b99806da5c6b1b62f8b37e26c89f",
+        "email": "pedro@email.com"
+    },
+    {
+        "id": 2,
+        "nome": "Julia Martins",
+        "matricula": "A2024002",
+        "senha": "6b3a55e0261b0304143f805a249725ae6e4d72825117f7e4d9f5c2ee0916e7e0",
+        "email": "julia@email.com"
+    }
+]

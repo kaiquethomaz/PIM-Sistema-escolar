@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "nome": "1º Ano A",
+        "alunos": [
+            1,
+            2
+        ],
+        "atividades": [
+            1,
+            2
+        ]
+    },
+    {
+        "id": 2,
+        "nome": "1º Ano B",
+        "alunos": [],
+        "atividades": []
+    }
+]
