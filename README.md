@@ -55,6 +55,8 @@ Relatório inteligente
 
 Usa a biblioteca reportlab.
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ▶️ Como rodar o sistema (bem simples)
 1️⃣ Instale o Python
 
